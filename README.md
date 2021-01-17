@@ -1,5 +1,5 @@
 # 100 Days of Code - Python 
-## Mastering the Python programming language by building 100 projects over 100 days. 
+
 ### Project Overview
 
 | Day | Project | Code | Focus area |
