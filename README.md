@@ -9,7 +9,7 @@
 | 3 | Treasure Island | [Code 03](https://github.com/newyentony/python-100-days-of-code/tree/main/day_03/main.py) | Control Flow, Logical Operators
 | 4 | Rock, Paper, Scissors | [Code 04](https://github.com/newyentony/python-100-days-of-code/tree/main/day_04/main.py)  | Randomisation, Lists
 | 5 | Password Generator | [Code 05](https://github.com/newyentony/python-100-days-of-code/tree/main/day_05/main.py)  | Loops
-| 6 | Dice Rolling Simulator | [Code 06](https://github.com/newyentony/python-100-days-of-code/tree/main/day_06) | Functions
+| 6 | Dice Rolling Simulator | [Code 06](https://github.com/newyentony/python-100-days-of-code/tree/main/day_06/main.py) | Functions
 | 7 | Hangman Game | [Code 07](https://github.com/newyentony/python-100-days-of-code/tree/main/day_07/main.py)  | Flow Chart, UX
 | 8 | Caesar Cipher | [Code 08](https://github.com/newyentony/python-100-days-of-code/tree/main/day_08/main.py)  | Function Parameter
 | 9 | Silent Auction | [Code 09](https://github.com/newyentony/python-100-days-of-code/tree/main/day_09/main.py) | Dictionaries, Nesting
