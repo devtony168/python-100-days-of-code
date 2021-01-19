@@ -1,1 +1,3 @@
-# Work in progress (Reeborg's world instead)
+# day6-dice-rolling-simulator
+
+A random dice rolling simulator. 
