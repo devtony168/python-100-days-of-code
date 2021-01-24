@@ -23,5 +23,5 @@
 |17| Video Game Quiz | [Code 17](https://github.com/newyentony/python-100-days-of-code/blob/main/day_17/main.py) | Attributes, Class Constructors, \_\_init\_\_()
 |18| The Hirst Painting Project | [Code 18](https://github.com/newyentony/python-100-days-of-code/blob/main/day_18/main.py) | Turtle Graphics, Tuples and Importing Modules
 |19| Turtle Race Game | [Code 19](https://github.com/newyentony/python-100-days-of-code/blob/main/day_19/main.py) | Event Listeners, State and Multiple Instances
-|20| Snake Game Part 1 | [Code 20](https://github.com/newyentony/python-100-days-of-code/blob/main/day_20/main.py) | Animation, Coordinates
-|21| Snake Game Part 2 (completed)| [Code 21](https://github.com/newyentony/python-100-days-of-code/blob/main/day_21/main.py) | Inheritance, List Slicing
+|20| Snake Game (1/2) | [Code 20](https://github.com/newyentony/python-100-days-of-code/blob/main/day_20/main.py) | Animation, Coordinates
+|21| Snake Game (2/2) (completed)| [Code 21](https://github.com/newyentony/python-100-days-of-code/blob/main/day_21/main.py) | Inheritance, List Slicing
