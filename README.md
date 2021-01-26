@@ -25,4 +25,4 @@
 |19| Turtle Race Game | [Code 19](https://github.com/newyentony/python-100-days-of-code/blob/main/day_19/main.py) | Event Listeners, State and Multiple Instances
 |20| Snake Game (1/2) | [Code 20](https://github.com/newyentony/python-100-days-of-code/blob/main/day_20/main.py) | Animation, Coordinates
 |21| Snake Game (2/2) | [Code 21](https://github.com/newyentony/python-100-days-of-code/blob/main/day_21/main.py) | Inheritance, List Slicing
-|22| Pong Game (work in progress) | [Code 22](https://github.com/newyentony/python-100-days-of-code/blob/main/day_22/main.py) | OOP Consolidation
+|22| Pong Game | [Code 22](https://github.com/newyentony/python-100-days-of-code/blob/main/day_22/main.py) | OOP Consolidation
