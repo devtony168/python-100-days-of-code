@@ -1,4 +1,4 @@
-# 100 Days of Code - Python 
+# Python - 100 Days of Code 
 
 ### Project Overview
 
