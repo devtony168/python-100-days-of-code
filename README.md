@@ -27,4 +27,3 @@
 |21| Snake Game (2/2) | [Code 21](https://github.com/newyentony/python-100-days-of-code/blob/main/day_21/main.py) | Inheritance, List Slicing
 |22| Pong Game | [Code 22](https://github.com/newyentony/python-100-days-of-code/blob/main/day_22/main.py) | OOP Consolidation
 |23| Turtle Crossing Game (In Development)| [Code 23](https://github.com/newyentony/python-100-days-of-code/blob/main/day_23/main.py) | Capstone Project
-|24|
